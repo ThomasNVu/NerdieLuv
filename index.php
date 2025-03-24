@@ -15,11 +15,7 @@ displayHeader("Home Page");
 	<p style="display: inline; margin: 0;">Check your matches</p>
 </a>
 
-<p>This page is for single people to meet and date each other! Type in <br>
-your personal information and wait for the dating site to match you up!<br>
-Thank you for using our site.</p>
-
 <?php
 // Display the footer
-displayFooter();
+displayFooter2();
 ?>
